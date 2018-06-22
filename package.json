@@ -5,7 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyxmq/long-cli.git"
+  },
   "author": "{{author}}",
-  "license": "ISC"
-
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyxmq/long-cli/issues"
+  },
+  "homepage": "https://github.com/andyxmq/long-cli#readme"
 }
